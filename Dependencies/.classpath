@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jar lib/apache-collections-commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jar lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jar lib/com.springsource.antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jar lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jar lib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jar lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jar lib/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jar lib/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/Ericcson Master program/Msc Applied Software development/Distributed Systems &amp; Security/jar_files/slf4j-simple-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/Ericcson Master program/Msc Applied Software development/Distributed Systems &amp; Security/jar_files/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/Ericcson Master program/Msc Applied Software development/Distributed Systems &amp; Security/jar_files/antlr_2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/here/Dependencies/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/here/Dependencies/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/here/Dependencies/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/here/Dependencies/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/here/Dependencies/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/here/Dependencies/lib/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/here/Dependencies/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/here/Dependencies/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/git/here/Dependencies/lib/mysql-connector-java.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
